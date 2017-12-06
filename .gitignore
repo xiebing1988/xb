@@ -3,17 +3,3 @@
 ### Example user template
 
 # IntelliJ project files
-.idea
-*.iml
-out
-gen
-.gitignore
-.idea/compiler.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/uiDesigner.xml
-.idea/workspace.xml
-REAMDME.md
-helloJenkins.iml
-pom.xml
-src/
